@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514810/8252/cowboy-parrot.gif?1643514810" width="30"/> Howdy! fancy seeing you here.</h1>
 
 
 <p>Welcome to my page! </br> I'm Sergio, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/2713/2713740.png" width="13"/> <b>Venezuela</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/3657/3657123.png" width="13"/> <b>Texas, USA</b>. </p>
