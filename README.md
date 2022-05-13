@@ -62,8 +62,6 @@
     </tr>
   </tbody>
 </table>
-
-<p>Currently, the weather is: <b> -2°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>06:02</b> and sets at <b>19:38</b>.</p>
 <h3>Where to find me</h3>
 <p>
     <a href="https://github.com/sergiomasellis" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
