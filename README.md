@@ -55,6 +55,13 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sergiomasellis/Orion?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/sergiomasellis/Gulp-Ember-App-Kit"><b>Vestor</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/sergiomasellis/vestor?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/sergiomasellis/vestor?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/sergiomasellis/vestor?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sergiomasellis/vestor?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/sergiomasellis/Gulp-Ember-App-Kit"><b>Gulp Ember App Kit</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/sergiomasellis/Gulp-Ember-App-Kit?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/sergiomasellis/Gulp-Ember-App-Kit?style=flat-square&labelColor=343b41"/></td>
